@@ -1,19 +1,19 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC Azul", 
-            "price": 5.89
-        },
-        {
-            "id": 2,
-            "name": "Smartphone Moto G4", 
-            "price": 1200.99
-        },
-        {
-            "id": 3,
-            "name": "Notebook Acer", 
-            "price": 2360.89
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC Azul",
+      "price": 5.89
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Moto G4",
+      "price": 1200.99
+    },
+    {
+      "id": 3,
+      "name": "Notebook Acer",
+      "price": 2360.89
+    }
+  ]
 }
