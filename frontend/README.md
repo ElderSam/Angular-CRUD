@@ -1,7 +1,7 @@
 # Frontend
 
-Instalando Material Design
-    ng add @angular/material
+Gerar componente header;
+    ng g c components/template/header /* generate (g) componente (c) */
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
