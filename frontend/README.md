@@ -1,7 +1,7 @@
 # Frontend
 
-Gerar componente header;
-    ng g c components/template/header /* generate (g) componente (c) */
+Gerar componente footer;
+    ng g c components/template/footer /* generate (g) componente (c) */
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.3.
 
